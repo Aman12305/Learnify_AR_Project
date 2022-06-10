@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skeleton Rig
+* source:	https://sketchfab.com/3d-models/skeleton-rig-ee87f94159cf4767b1977659db3fb7aa
+* author:	CreativeMachine (https://sketchfab.com/CreativeMachine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skeleton Rig" (https://sketchfab.com/3d-models/skeleton-rig-ee87f94159cf4767b1977659db3fb7aa) by CreativeMachine (https://sketchfab.com/CreativeMachine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
